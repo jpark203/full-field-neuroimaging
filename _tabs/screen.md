@@ -11,6 +11,7 @@ _Screen Hull_
 
 - <span style="font-size: 24px;"> Design Files: download
 <a href="https://github.com/jpark203/full-field-neuroimaging/raw/main/designFiles/2020FlatDesign.ipt" download> .ipt</a>
+,
 <a href="https://github.com/jpark203/full-field-neuroimaging/raw/main/designFiles/screenHull.zip" download> .dxf(in zip) </a>
     - <span style="font-size: 18px;"> The original back brace cast an unwanted shadow and was replaced with the lower profile one shown floating in front. A new back bracket, consistent with this design, has been added to the dxf file. </span>
 
