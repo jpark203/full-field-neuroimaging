@@ -9,14 +9,10 @@ order: 2
 _Screen Hull_
 - <span style="font-size: 24px;"> The screen was held in shape by gluing it to a using a custom fabricated acrylic “hull” that could be placed over the subject’s head and guided into the bore with them.
 
-<a href="designFiles/2020FlatDesign.ipt">.ipt</a>
-
-<!-- - <span style="font-size: 24px;">  -->
-<!-- Design Files: <a href="designFiles/2020FlatDesign.ipt">.ipt</a> -->
- <!-- <a href="designFiles/screenHull.dxf">.dxf</a> </span> -->
+- <span style="font-size: 24px;"> Design Files: download
+<!-- <a href="https://github.com/jpark203/full-field-neuroimaging/raw/main/designFiles/2020FlatDesign.ipt" download> .ipt</a> -->
+<a href="https://github.com/jpark203/full-field-neuroimaging/raw/main/designFiles/screenHull.zip" download> .dxf</a>
     - <span style="font-size: 18px;"> The original back brace cast an unwanted shadow and was replaced with the lower profile one shown floating in front. A new back bracket, consistent with this design, has been added to the dxf file. </span>
-<!-- - <span style="font-size: 24px;"> Design Files: [.ipt](/designFiles/2020FlatDesign.ipt), [.dxf](/designFiles/screenHull.dxf) </span>
-    - <span style="font-size: 18px;"> The original back brace cast an unwanted shadow and was replaced with the lower profile one shown floating in front. A new back bracket, consistent with this design, has been added to the dxf file. </span> -->
 
 
 <br><br>
